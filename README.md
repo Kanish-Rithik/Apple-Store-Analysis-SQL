@@ -1,1 +1,1 @@
-# Apple-Store-Analysis-SQL
+Apple store analysis project using SQL
